@@ -38,6 +38,8 @@
 
 ### 2. Production URL Shortener with Analytics
 
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=MOHAN-6&repo=url-shortener&theme=radical)](https://github.com/MOHAN-6/url-shortener)
+
 **Tech:** FastAPI, MongoDB, Docker, Render, GitHub Actions, HTML/CSS/JS
 
 **Features:**
@@ -45,6 +47,8 @@
 - ✅ Click tracking & analytics for link performance monitoring
 - ✅ Custom short codes and persistent MongoDB storage
 - ✅ Containerized with **Docker** and deployed on **Render** with CI/CD
+
+**Live Demo:** [https://url-shortener-mohan.onrender.com](https://url-shortener-mohan.onrender.com)
 
 ---
 
@@ -56,17 +60,6 @@
 - ✅ Real-time sensor data ingestion and predictive analytics
 - ✅ LSTM-based time-series forecasting with **35% better fault detection**
 - ✅ Containerized multi-service stack (API, ML worker, Redis, PostgreSQL) with Docker Compose
-
----
-
-### 4. ML-Driven Background Job Scheduler with Intelligent Alerting
-
-**Tech:** Python, FastAPI, Celery, Redis, Prometheus, Slack API, Docker
-
-**Features:**
-- ✅ Real-time job failure risk prediction using Gradient Boosting
-- ✅ Async task scheduling with Celery + Redis
-- ✅ Structured logging, Prometheus metrics, and **Slack alerting** for failures
 
 ---
 
