@@ -7,49 +7,66 @@
 
 ---
 
-## 🚀 AI/ML Engineer | ECE Student @ Vel Tech | 2026 Batch
+## 🚀 Software Engineer | ECE Student @ Vel Tech | 2026 Batch
 
 ### About Me
 
 - 🎓 Final year Electronics & Communication Engineering student
-- 🤖 Passionate about AI/ML, Deep Learning, and Intelligent Systems
-- 🔭 Built real-time anomaly detection system with 4.66ms response time
-- 🎯 Looking for AI/ML Internships (2026 batch)
+- 💻 Strong Python developer (PCAP Certified) with experience in backend engineering, distributed systems, and microservices
+- ⚡ Built scalable systems handling **500+ concurrent requests** with **sub-20ms response times**
+- 🎯 Looking for full-time Software Engineering roles (2026 batch)
 
 ---
 
-## 🔥 My Projects
+## 🔥 Featured Projects
 
-### 1. AI-Powered Anomaly Detection System
+### 1. AI-Ready Log Analytics & Monitoring System
 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=MOHAN-6&repo=anomaly-detection-system&theme=radical)](https://github.com/MOHAN-6/anomaly-detection-system)
 
-**Tech:** FastAPI, Scikit-learn, Redis, Docker
+**Tech:** FastAPI, Python, Redis, Docker, Scikit-learn, CI/CD (GitHub Actions)
 
-**Features:**
-- ✅ Anomaly detection using Isolation Forest
-- ✅ Log classification with 88% accuracy
-- ✅ 4.66ms response time with Redis caching
-
----
-
-### 2. Intelligent Edge-to-Cloud Predictive Monitoring (Coming Soon)
-
-**Tech:** TensorFlow, LSTM, FastAPI, Docker Compose
-
-**Features:**
-- ✅ LSTM time-series forecasting
-- ✅ 35% better fault detection
+**Impact:**
+- ✅ Handles **500 concurrent requests** with **17ms avg response time**
+- ✅ Reduced query latency by **60%** using time-partitioned indexing and cursor-based pagination
+- ✅ Processes **1M+ logs** with bulk ingestion pipeline (10,000 logs/batch)
+- ✅ Real-time anomaly detection using Isolation Forest
+- ✅ NLP-based log severity classification (INFO, WARNING, ERROR, CRITICAL) with **88% accuracy**
+- ✅ Built real-time analytics dashboard with severity distribution and performance benchmarking
 
 ---
 
-### 3. ML-Driven Background Job Scheduler (Coming Soon)
+### 2. Production URL Shortener with Analytics
 
-**Tech:** Celery, Redis, Gradient Boosting, Slack API
+**Tech:** FastAPI, MongoDB, Docker, Render, GitHub Actions, HTML/CSS/JS
 
 **Features:**
-- ✅ Job failure risk prediction
-- ✅ Slack alerts for failures
+- ✅ Full-stack URL shortener with **3D animated frontend** and responsive design
+- ✅ Click tracking & analytics for link performance monitoring
+- ✅ Custom short codes and persistent MongoDB storage
+- ✅ Containerized with **Docker** and deployed on **Render** with CI/CD
+
+---
+
+### 3. Intelligent Edge-to-Cloud Automation Monitoring System
+
+**Tech:** LSTM, TensorFlow, FastAPI, Docker Compose, Redis, PostgreSQL
+
+**Features:**
+- ✅ Real-time sensor data ingestion and predictive analytics
+- ✅ LSTM-based time-series forecasting with **35% better fault detection**
+- ✅ Containerized multi-service stack (API, ML worker, Redis, PostgreSQL) with Docker Compose
+
+---
+
+### 4. ML-Driven Background Job Scheduler with Intelligent Alerting
+
+**Tech:** Python, FastAPI, Celery, Redis, Prometheus, Slack API, Docker
+
+**Features:**
+- ✅ Real-time job failure risk prediction using Gradient Boosting
+- ✅ Async task scheduling with Celery + Redis
+- ✅ Structured logging, Prometheus metrics, and **Slack alerting** for failures
 
 ---
 
@@ -57,11 +74,12 @@
 
 | Category | Technologies |
 |----------|--------------|
-| ML/AI | TensorFlow, Scikit-learn, LSTM, NLP, XGBoost |
-| Backend | FastAPI, Flask, Celery, Redis |
-| Database | PostgreSQL, SQLAlchemy |
-| DevOps | Docker, Git, Prometheus |
-| Languages | Python, SQL |
+| **Languages** | Python (PCAP Certified), SQL |
+| **Backend** | FastAPI, Flask, Celery, REST APIs |
+| **Databases** | PostgreSQL, SQLAlchemy, MongoDB |
+| **DevOps & Cloud** | Docker, Redis, CI/CD (GitHub Actions), Render, Linux, Git |
+| **AI/ML** | Scikit-learn, TensorFlow, PyTorch, LSTM, NLP, XGBoost |
+| **Core CS** | Data Structures & Algorithms, OOP, Distributed Systems, Microservices |
 
 ---
 
