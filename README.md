@@ -43,11 +43,21 @@ A full-stack URL shortener with a polished, animated frontend.
 - **MongoDB**-backed persistent storage with click tracking, analytics & custom short codes
 - Dockerized and deployed on **Render** with **CI/CD via GitHub Actions**
 
-#### 🌐 Intelligent Edge-to-Cloud Automation Monitoring System
-A distributed monitoring platform bridging embedded devices and the cloud.
-- Integrates **embedded sensor nodes** with a centralized backend for real-time analytics
-- Time-indexed storage with high-throughput RESTful APIs for continuous ingestion & real-time alerting
-- Built on **distributed systems principles** — scalability, fault tolerance, high availability
+#### 🛡️ Aegis — Multi-Agent Chargeback Case Manager
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=github&logoColor=white)](https://mohan-6.github.io/chargeback-case-manager/)
+[![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MOHAN-6/chargeback-case-manager)
+
+**Track 02 — AI Risk Manager | Razorpay Buildathon**
+
+A defense-only, multi-agent system that stops merchants losing money to chargeback fraud.
+- **Investigator Agent** runs 5 independent checks (velocity, geo-consistency, device/IP, dispute history, behavioural session)
+- **Analyzer Agent** applies a weighted logit scorer and produces a risk score and decision
+- **Auto-Responder** drafts evidence packets for the acquiring bank when fraud is confirmed
+- **Honest metrics:** Precision 82.6%, Recall 88.1%, F1 85.2%
+- **False-positive cost:** ₹1,00,800 — explicit cost analysis
+- Complete **audit trail** for every decision (12,000+ lines)
+- **1,200-case** synthetic test set with realistic imperfections
+- **Defense-only** — cannot be repurposed for offensive use
 
 ---
 
